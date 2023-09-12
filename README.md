@@ -28,5 +28,5 @@ I'm a passionate Web Developer from India. I love reading Manga and watching Ani
 ## 📞 Get in Touch
 
 - **LinkedIn:** [Profile](https://www.linkedin.com/in/harsh-patel-63b462156/)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/harshpatel1999)
+- **Twitter:** [@harshpatel1999](https://twitter.com/harshpatel1999)
 
